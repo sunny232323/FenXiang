@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\bin\Debug\源代码.exe.config
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\bin\Debug\源代码.exe
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\bin\Debug\源代码.pdb
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\obj\Debug\源代码.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\obj\Debug\源代码.Form1.resources
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\obj\Debug\源代码.Properties.Resources.resources
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\obj\Debug\源代码.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\obj\Debug\源代码.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\obj\Debug\源代码.exe
+C:\Users\Administrator\Desktop\正式考试\正式文件夹\源代码\源代码\obj\Debug\源代码.pdb
